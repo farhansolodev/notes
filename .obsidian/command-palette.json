@@ -1,0 +1,9 @@
+{
+  "pinned": [
+    "global-search:open",
+    "app:delete-file",
+    "cmdr:open-commander-settings",
+    "obsidian-footnotes:insert-autonumbered-footnote",
+    "obsidian-footnotes:insert-named-footnote"
+  ]
+}

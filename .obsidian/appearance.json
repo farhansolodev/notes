@@ -1,0 +1,15 @@
+{
+  "accentColor": "",
+  "baseFontSize": 20,
+  "translucency": false,
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "showViewHeader": false,
+  "cssTheme": "Minimal",
+  "textFontFamily": "",
+  "enabledCssSnippets": [
+    "disable_sidebar_transition_animations",
+    "Disable Sidebar Transition Animations"
+  ],
+  "interfaceFontFamily": "Inter"
+}

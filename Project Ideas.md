@@ -1,0 +1,32 @@
+- write a linter for go that checks for correct type assertion usage
+- write a linter for go that does not allow a literal to be assigned to a higher kinded type if enums have been initialized of that type in the same package
+- how intel hyperthreading can be used natively in assembly 
+- contribute to dubai open source
+- clone a tsoding project
+- fix vscode exclusively admin/non-admin windows problem
+- windows (and ios?) app that fans can use to watch football streams with intuitive ui/ux to measure stoppage time themselves
+- windows app that consumes a stream of eye tracking data from a given endpoint in a custom format (protocol?) (maybe use udt? quic?) to then generate Tobii-like visualisations overlayed on top of a target window (or the entire screen) for recording or streaming purposes -- the device providing the face recog data will need to track the location and orientation of the monitor in relation to the user's eyes as well as its own location and orientation (using gyro + object detection + face recog + math) -- would be nice to show a 3d model of this on the mobile device -- after all this it will need to do the actual eye tracking, use math and all the previously processed data to figure out where he is looking on the screen (math) and then serve the stream of eye tracking data.
+- advent of code
+- napkin math (first principles)
+- protohackers
+- ai tool that can take a song, and you can use your voice to change parts of it like change the underlying beat, or make the melody slightly different, or remove a layer from a song etc
+- make multithreaded chatroom examples in multiple languages (nodejs, go, python, java, c#, rust, ocaml, elixir) and profile memory usage when: idle, 1k connections, 10k connections, 100k connections, 1M connections, 10M connections, 100M connections
+- p2p stateful clipboard sharing
+- make dark mode for various windows applications:
+	  - system properties
+	  - system information
+	...etc.
+- pddl planner for generating p2p strategies given:
+	  - rules
+	  - network conditions
+	  - available actions
+	  - state changes from those actions
+- function history vscode extension (undo/redo within a function instead of changing other parts of the file)
+- add ability to choose websocket server url from pairdrop frontend (just like in movie-web)
+- obsidian plugin that adds keyboard navigation in the settings
+- discord browser extension that lets you *actually* block someone by making their messages completely invisible on the frontend - this way you don't block them on discord and they have no idea you're using this extension; maybe also remove messages that reply to the blocked person
+- jsonata-go with streaming like jq
+- paid boot.dev bootcamp (cheaper from bangladesh)
+- video bleeper using transcription, `ffmpeg` and a list of bad words lol
+- find video from large library via text search
+- library that allows a program to embed settings into the its own binary instead of in a separate settings file or database - makes the binary self contained and the program more distributable 
