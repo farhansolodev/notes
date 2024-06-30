@@ -44,6 +44,14 @@
             }
           },
           {
+            "id": "20c6e13261f78014",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
             "id": "881652e5a5ee6058",
             "type": "leaf",
             "state": {
@@ -110,7 +118,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,14 +130,14 @@
     "hiddenItems": {
       "publish:Publish changes...": false,
       "daily-notes:Open today's daily note": false,
-      "templater-obsidian:Templater": false,
       "graph:Open graph view": true,
       "switcher:Open quick switcher": true,
       "command-palette:Open command palette": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "44fb61f50dde1d32",
+  "active": "f1749076adb04809",
   "lastOpenFiles": [
     "resources/templates/Template, Daily Note Section.md",
     "daily/2024/June/30 June 2024.md",
