@@ -30,3 +30,5 @@
 - video bleeper using transcription, `ffmpeg` and a list of bad words lol
 - find video from large library via text search
 - library that allows a program to embed settings into the its own binary instead of in a separate settings file or database - makes the binary self contained and the program more distributable 
+- event loop visualiser
+- syncthing ios app
