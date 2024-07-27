@@ -1,2 +1,2 @@
 ---
->*Last modified: `=this.file.mtime`*
+Last modified: *`=this.file.mtime`*

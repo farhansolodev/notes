@@ -32,3 +32,4 @@
 - library that allows a program to embed settings into the its own binary instead of in a separate settings file or database - makes the binary self contained and the program more distributable 
 - event loop visualiser
 - syncthing ios app
+- tydlig for web (excuse to use webgl/webgpu/wasm stuff `(or just use a wrapper which usually becomes the case)`)

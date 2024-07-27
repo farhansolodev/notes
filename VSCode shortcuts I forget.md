@@ -7,8 +7,10 @@
 | Interface Navigation | Focus filetree                             | `Ctrl-Backtick`       |
 | File Navigation      | Go to next change                          | `Ctrl-Alt-RightArrow` |
 | File Navigation      | Go to previous change                      | `Ctrl-Alt-LeftArrow`  |
+| Editor Management    | Maximize current editor group              | `Ctrl-m`              |
 | Editor Management    | Expand current editor group                | `Alt-Enter`           |
-| Editor Management    | Reset editor groups layout                 | `Alt-'`               |
+| Editor Management    | Reset editor groups layout                 | `Alt-r`               |
+| Interface Navigation | Focus active editor                        | `Ctrl-e`              |
 | Interface Navigation | Focus terminal                             | `Alt-Backtick`        |
 | Interface Navigation | Focus outline                              | `Ctrl-k-o`            |
 | Interface Navigation | Focus open editors                         | `Ctrl-k-e`            |
