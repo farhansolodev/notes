@@ -13,5 +13,5 @@ Now, this setup would have *theoretically* worked with symmetric NAT on either s
 
 # Resources:
 
-- NAT Vendor Terminologies vs Cone/Symmetric Terminologies
-- https://learningnetwork.cisco.com/s/question/0D56e0000CWxJ9sCQF/lets-explain-in-details-full-cone-nat-restricted-cone-nat-and-symmetric-nat-terminologies-vs-cisco-nat-terminologies
+- NAT Vendor Terminologies vs RFC 3489 Terminologies
+  https://learningnetwork.cisco.com/s/question/0D56e0000CWxJ9sCQF/lets-explain-in-details-full-cone-nat-restricted-cone-nat-and-symmetric-nat-terminologies-vs-cisco-nat-terminologies
