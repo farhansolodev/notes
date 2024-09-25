@@ -32,4 +32,16 @@
 - library that allows a program to embed settings into the its own binary instead of in a separate settings file or database - makes the binary self contained and the program more distributable 
 - event loop visualiser
 - syncthing ios app
-- tydlig for web (excuse to use webgl/webgpu/wasm stuff `(or just use a wrapper which usually becomes the case)`)
+- tydlig for web (excuse to use webgl/webgpu/wasm stuff `(or just use a wrapper which usually becomes the case)`
+- barrier remake using wolf (sunshine rewrite) input code
+- parsec arcade remake but using sunshine:
+	- easy host ui for managing clients, permissions
+	- ability to limit input to just one window
+	- ability to limit input to vigem controller emulation
+- openpgp based offline message encryption & decryption in a chrome extension:
+	- Sending:
+	  Have a text box for the user to type into, and once done, the text is encrypted using the receivers public key and copied to the actual text box that the site provides - potentially auto-sent as well.
+	- Receiving:
+	  Allow the user to decrypt received messages using their own private key.
+- ai powered email categorizer
+	  

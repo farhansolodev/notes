@@ -79,3 +79,10 @@ connected or added to something, typically in an auxiliary way: *`other alternat
 
 ORIGIN
 early 16th century (as an adjective meaning 'joined on, subordinate'): from Latin ***adjunctus***, past participle of ***adjungere*** **'to join to'** (see **adjoin**).
+
+---
+# dogpile
+**verb** `| ˈdɒɡpʌɪl |` (informal, North American)
+
+1. (of a number of people) jump on top of another person or one another so as to form a disorderly heap: _`the players poured out of the dugout to dogpile on Wright at second base.`_
+2. (of a number of people) join in directing critical or abusive comments at another person or group: _`why do I continue to read endless editorials dogpiling on him after his recent election loss?`_
