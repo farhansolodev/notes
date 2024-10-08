@@ -10,6 +10,8 @@
 | Editor Management    | Maximize current editor group              | `Ctrl-m`              |
 | Editor Management    | Expand current editor group                | `Alt-Enter`           |
 | Editor Management    | Reset editor groups layout                 | `Alt-r`               |
+| Interface Management | Hide left sidebar                          | `Ctrl-[`              |
+| Interface Management | Hide right sidebar                         | `Ctrl-]`              |
 | Interface Navigation | Focus active editor                        | `Ctrl-e`              |
 | Interface Navigation | Focus terminal                             | `Alt-Backtick`        |
 | Interface Navigation | Focus outline                              | `Ctrl-k-o`            |

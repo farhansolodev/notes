@@ -44,4 +44,4 @@
 	- Receiving:
 	  Allow the user to decrypt received messages using their own private key.
 - ai powered email categorizer
-	  
+- easy windows program icon changer 
